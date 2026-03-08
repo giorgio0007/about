@@ -47,7 +47,7 @@ I care about:
 ### 📊 Development Dashboard
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/giorgio0007/giorgio0007/main/github-metrics.svg" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
 ---
