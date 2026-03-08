@@ -36,11 +36,11 @@ I care about:
 <p align="center">
 
 <a href="https://github.com/giorgio0007/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giorgio0007&repo=project-one&theme=github_dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giorgio0007&repo=streamer-skeletonfx&theme=github_dark&hide_border=true">
 </a>
 
 <a href="https://github.com/giorgio0007/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giorgio0007&repo=project-two&theme=github_dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giorgio0007&repo=FlickPick&theme=github_dark&hide_border=true">
 </a>
 
 </p>
