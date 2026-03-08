@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+### ⚡ About Me
 
 I'm a **Fullstack JavaScript Developer** focused on building scalable web applications.
 
@@ -15,98 +15,45 @@ I enjoy working across the entire JavaScript ecosystem — from **React interfac
 
 I care about:
 
-- clean code  
-- scalable architecture  
-- building products people actually use  
+- clean code
+- scalable architecture
+- building products people actually use
 
 ---
 
-# 🚀 Tech Stack
+### 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="300"><strong>Frontend</strong></td>
+    <td align="center" width="300"><strong>Backend & DB</strong></td>
+    <td align="center" width="300"><strong>DevOps & Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts" title="react,nextjs,ts,redux"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express,nestjs,postgres,sequelize,redis" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,linux,nginx,github,postman" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Development Dashboard
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,postgres,docker,git,linux,vite" />
-
+<img src="https://raw.githubusercontent.com/giorgio0007/giorgio0007/main/github-metrics.svg" />
 </p>
 
 ---
 
-# ⭐ Featured Projects
+### 💡 Dev Quote
 
 <p align="center">
-
-<a href="https://github.com/giorgio0007/streamer-skeletonfx">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giorgio0007&repo=streamer-skeletonfx&theme=github_dark&hide_border=true">
-</a>
-
-<a href="https://github.com/giorgio0007/FlickPick">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=giorgio0007&repo=FlickPick&theme=github_dark&hide_border=true">
-</a>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=giorgio0007&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giorgio0007&layout=compact&theme=github_dark&hide_border=true" height="165"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=giorgio0007&theme=github-compact&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/giorgio0007/giorgio0007/output/snake.svg" />
-</p>
-
----
-
-# 📚 Currently Learning
-
-Currently improving skills in:
-
-- **System Design**
-- **High-load backend architecture**
-- **Performance optimization**
-
-Building production-ready projects using **TypeScript** and **Docker**.
-
----
-
-# 📫 Contact
-
-<p align="center">
-
-<a href="https://github.com/giorgio0007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://t.me/YOUR_TELEGRAM">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=giorgio0007&color=blue&style=flat-square&label=Profile+Views"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
