@@ -35,11 +35,11 @@ I care about:
 
 <p align="center">
 
-<a href="https://github.com/giorgio0007/project-one">
+<a href="https://github.com/giorgio0007/streamer-skeletonfx">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=giorgio0007&repo=streamer-skeletonfx&theme=github_dark&hide_border=true">
 </a>
 
-<a href="https://github.com/giorgio0007/project-two">
+<a href="https://github.com/giorgio0007/FlickPick">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=giorgio0007&repo=FlickPick&theme=github_dark&hide_border=true">
 </a>
 
