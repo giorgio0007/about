@@ -1,24 +1,35 @@
-name: Metrics
+name: GitHub Metrics
 
+# Запуск вручную или по расписанию каждый день в полночь
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
-  metrics:
+  generate-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # 1️⃣ Чекаут репозитория
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Generate metrics
+      # 2️⃣ Генерация SVG с метриками
+      - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: header,activity
+          filename: github-metrics.svg # создастся в корне
+          token: ${{ secrets.METRICS_TOKEN }} # личный токен с доступом к приватным репо
+          base: header,activity,community,repositories
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
+          plugin_isocalendar: yes
+          plugin_stars: yes
+          plugin_followup: yes
+          plugin_achievements: yes
 
+      # 3️⃣ Коммит и пуш SVG в репозиторий
       - name: Commit & Push
         run: |
           git config --global user.name "github-actions[bot]"
